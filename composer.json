@@ -1,0 +1,17 @@
+{
+    "name": "khali/api_tp",
+    "autoload": {
+        "psr-4": {
+            "Khali\\ApiTp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khalid Oumarou Garba",
+            "email": "khalidogarba@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
